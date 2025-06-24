@@ -1,40 +1,68 @@
-# 👋 Hi, I’m Riddhi Makwana
+# 👋 Hi, I'm Riddhi Makwana | Data Analyst | Python & Power BI Specialist
 
-**QA Automation Engineer | Selenium & TestNG Pro | LambdaTest Certified | CI/CD Enthusiast**  
+**📍 Kitchener, ON | Open to Toronto Opportunities**  
+📧 riddhimakwana77@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/makwana-riddhi)  
 
-### 💡 About Me
-- 🔭 **Currently:** Building robust test automation frameworks with **Selenium, Java, and LambdaTest**.
-- 🌱 **Learning:** Advanced **Playwright, API testing (RestAssured), and DevOps tools**.
-- ✨ **Passion:** Turning flaky tests into reliable automation pipelines.  
-- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/makwana-riddhi/) | riddhimakwana77@gmail.com  
-- 😄 **Pronouns:** She/Her  
-- ⚡ **Fun fact:** I can debug code while sipping chai ☕!  
+## 🚀 What I Do
+I transform raw data into **strategic business assets** through:
+- **Predictive Analytics** (92% model accuracy in financial forecasting)
+- **Interactive Dashboard Development** (Power BI, Tableau)
+- **Automated Data Pipelines** (ETL, Python scripting)
+- **Statistical Modeling** (A/B testing, regression analysis)
 
----
+## 💼 Featured Projects
 
-### 🛠 Tech Stack
-**Automation:** Selenium WebDriver | TestNG | JUnit | Playwright  
-**Languages:** Java | Python | JavaScript  
-**CI/CD:** Jenkins | GitLab CI | Docker  
-**Testing Tools:** LambdaTest | Postman | JMeter  
-**Databases:** MySQL | MongoDB | Firebase  
+### 📈 [NYSE Financial Health Analysis]([project-link](https://github.com/RiddhiMakwana301/New_York_Stock_Exchange))
+*Python | Power BI | Machine Learning*  
+- Engineered hybrid risk model (Altman Z-Score + Isolation Forest) identifying **23 high-risk opportunities**
+- Discovered **$12B arbitrage potential** between telecom and financial sectors
+- Built **self-updating Power BI dashboard** adopted by portfolio managers
 
----
+### 🛒 [Amazon Sales Optimization]([project-link](https://github.com/RiddhiMakwana301/Amazon_Sales_Analysis.git))  
+*Python | Pandas | Power BI*  
+- Analyzed 10K+ transactions to identify **top 5% products generating 40% revenue**
+- Developed dynamic pricing model **increasing profits by 12%**
+- Created executive dashboard with **drill-down regional analysis**
 
-### 🔥 Recent Projects
-1. **Salon Booking App Test Suite**  
-   - Automated 50+ UI tests with **Selenium + LambdaTest**, reducing regression time by 30%.  
-   - Tech: Java | TestNG | Jenkins  
+### 🎧 [Spotify Listener Analytics]([project-link](https://github.com/RiddhiMakwana301/Spotify-Analysis-Project.git))  
+*Power BI | DAX | Data Modeling*  
+- Processed **150K+ streaming records** to uncover engagement patterns
+- Revealed **24% skip rate** and **72% mobile usage** through interactive heatmaps
+- Implemented **time-intelligence measures** for YoY trend analysis
 
-2. **E-commerce API Test Framework**  
-   - Built a **Postman + Newman** pipeline for 95% backend coverage.  
-   - Tech: JavaScript | CI/CD Integration  
+## 🛠️ Technical Toolkit
+```python
+{
+  "Languages": ["Python (Pandas, NumPy, Scikit-learn)", "SQL", "R"],
+  "BI Tools": ["Power BI (DAX, Data Modeling)", "Tableau", "Excel (VBA, Power Query)"],
+  "Databases": ["MySQL", "PostgreSQL", "MongoDB"],
+  "Methodologies": ["Agile", "CRISP-DM", "Statistical Hypothesis Testing"]
+}
 
-3. **Mobile Testing Lab**  
-   - Scaled real-device testing on **LambdaTest** for a cross-platform Android/iOS app.  
 
----
+###**📚 Currently Learning**
+Advanced Data Engineering (Airflow, Spark)
 
-### 🤝 Let’s Collaborate!  
-- Open to **open-source QA projects** or mentoring junior testers.  
-- Let’s connect and build something **bug-free**!  
+Canadian Financial Regulations (OSFI compliance)
+
+French (Business proficiency)
+
+###**🌟 Why Work With Me?**
+Business-First Approach: I align data insights with ROI objectives
+
+Full-Cycle Expertise: From data extraction to executive presentations
+
+Proven Impact:
+
+30%+ operational efficiency improvements
+
+15+ hours/week saved through automation
+
+18% higher conversion rates via A/B testing
+
+###**📫 Let's Connect**
+I'm always open to discussing data opportunities in Canada:
+
+LinkedIn: www.linkedin.com/in/makwana-riddhi
+
+riddhimakwana77@gmail.com
