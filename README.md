@@ -40,14 +40,14 @@ I transform raw data into **strategic business assets** through:
 }
 ```
 
-###**📚 Currently Learning**
+## **📚 Currently Learning**
 Advanced Data Engineering (Airflow, Spark)
 
 Canadian Financial Regulations (OSFI compliance)
 
 French (Business proficiency)
 
-###**🌟 Why Work With Me?**
+## **🌟 Why Work With Me?**
 Business-First Approach: I align data insights with ROI objectives
 
 Full-Cycle Expertise: From data extraction to executive presentations
@@ -60,7 +60,7 @@ Proven Impact:
 
 18% higher conversion rates via A/B testing
 
-###**📫 Let's Connect**
+## **📫 Let's Connect**
 I'm always open to discussing data opportunities in Canada:
 
 LinkedIn: www.linkedin.com/in/makwana-riddhi
